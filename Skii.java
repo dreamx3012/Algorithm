@@ -2,7 +2,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Solution {
+public class Skii {
 
 	private static Scanner sc;
 	static int N;
